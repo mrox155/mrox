@@ -1,0 +1,9 @@
+{
+  "client_id": "https://mrox155.github.io/mrox/client.json",
+  "client_name": "mr-ox",
+  "client_uri": "https://mrox155.github.io/mrox/",
+  "redirect_uris": ["https://mrox155.github.io/mrox/cb.html"],
+  "grant_types": ["authorization_code", "client_credentials"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
